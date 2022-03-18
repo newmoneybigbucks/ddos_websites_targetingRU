@@ -1,3 +1,7 @@
+POSTERS NOTE: this script comes from the webstie hxxps://stop-russian-desinformation[.]near[.]page
+
+
+
 
 var targets = [
   'hxxps://lenta(([.]))ru/',
